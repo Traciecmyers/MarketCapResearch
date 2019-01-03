@@ -4,8 +4,7 @@ Research about Market Cap
 Research on Market cap and circulating supply, how this will affect POKT.
 
 This is info about a traditional economy
-<p>
-https://www.investopedia.com/articles/basics/03/031703.asp
+<p>https://www.investopedia.com/articles/basics/03/031703.asp
 
 Market capitalization is just a fancy name for a straightforward concept: it is the market value of a company's outstanding shares. This figure is found by taking the stock price and multiplying it by the total number of shares outstanding. For example, if Cory's Tequila Corporation (CTC) was trading at $20 per share and had a million shares outstanding, then the market capitalization would be $20 million ($20 x 1 million shares). It's that simple.
 
