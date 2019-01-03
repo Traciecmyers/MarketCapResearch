@@ -11,7 +11,7 @@ Market capitalization is just a fancy name for a straightforward concept: it is 
 Outstanding shares refer to a company's stock currently held by all its shareholders, including share blocks held by institutional investors and restricted shares owned by the company’s officers and insiders. Outstanding shares are shown on a company’s balance sheet under the heading “Capital Stock.” The number of outstanding shares is used in calculating key metrics such as a company’s market capitalization, as well as its earnings per share(EPS) and cash flow per share (CFPS).
 
 According to Coin Market Cap
-https://coinmarketcap.com/faq/
+<p>https://coinmarketcap.com/faq/
 
 Market Capitalization is one way to rank the relative size of a cryptocurrency. It's calculated by multiplying the Price by the Circulating Supply.
 Market Cap = Price X Circulating Supply.
@@ -24,26 +24,21 @@ Why is the Circulating Supply used in determining the market capitalization inst
 We've found that Circulating Supply is a much better metric for determining the market capitalization. Coins that are locked, reserved, or not able to be sold on the public market are coins that can't affect the price and thus should not be allowed to affect the market capitalization as well. The method of using the Circulating Supply is analogous to the method of using public float for determining the market capitalization of companies in traditional investing.
 
 According to Coin Central
-https://coincentral.com/cryptocurrency-market-capitalization/
+<p>https://coincentral.com/cryptocurrency-market-capitalization/
 Market capitalization (market cap) simply defines the current share price multiplied by the total number of existing shares. In cryptocurrency terms, this means the current price of a coin times the total number of coins in the market, often referred to as circulating supply.
 Company Market Cap = Total Existing Shares * Current Price
 Cryptocurrency Market Cap = Total Current Coins * Current Price
 
 
 Medium Post about Masternodes
-https://medium.com/blockstake/masternode-manifesto-682bf182891a
+<p>https://medium.com/blockstake/masternode-manifesto-682bf182891a
 Token Stability
 Running a master node requires collateral to be locked, reducing the circulating supply of that token available on the open market.
 Due to the ongoing incentive of running master nodes to earn block rewards, investors are more likely to hold onto their tokens.
 This, in theory, provides more price stability, which is important in a volatile asset class. Additionally, this structure is more likely to attract long-term investors rather than pump and dump groups.
 
 Reddit posts on this topic
-https://www.reddit.com/r/cryptotwenty/comments/7spnut/discrepancy_bt_total_supply_circulating_supply/
+<p>https://www.reddit.com/r/cryptotwenty/comments/7spnut/discrepancy_bt_total_supply_circulating_supply/
 
-https://www.reddit.com/r/CryptoMarkets/comments/7zocgv/coinmarketcap_master_nodes_are_not_circulating/
+<p>https://www.reddit.com/r/CryptoMarkets/comments/7zocgv/coinmarketcap_master_nodes_are_not_circulating/
 
-
-Thoughts
-We could contact exchanges to find out where they are getting their numbers from. If they are pulling the data from a central source, which would make sense, or if they are relying on each project to supply the circulating supply amount, total supply, and max supply on their tokens. 
-
-Chris Jenkins is going to try to reach out to his Reddit community to get an answer. I will also reach out to someone who has had a coin listed and see if they know. Will keep all posted
